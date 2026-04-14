@@ -56,16 +56,13 @@ Soy un estudiante de Ingeniería en Software y actualemente estoy cursando el 6t
 
 ---
 
-## 🎓 Educación
+## Educación
 
 Ingeniería en Software
-
 Universidad Autónoma de Occidente
-
 Agosto 2023 – Junio 2027 (estimado)
 
 Técnico en Programación
-
 (Educación media superior técnica)
-
 Septiembre 2020 - Julio 2023
+
